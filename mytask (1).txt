@@ -1,0 +1,4 @@
+
+[{'nome': 'enzo', 'email': 'enzo@gmail.com', 'senha': '123456'}]
+[{'nome': 'enzo', 'email': 'enzon@gmail.com', 'senha': '1234'}]
+
